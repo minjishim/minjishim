@@ -4,6 +4,8 @@
 Thesis :
 App :
 Blog : 
+ - https://jadeaim.tistory.com/
+ - https://www.acmicpc.net/user/jadeaim
 
 Update 22. 07. 13.
 <!---
