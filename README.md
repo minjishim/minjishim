@@ -6,6 +6,7 @@ App :
 Blog : 
  - https://jadeaim.tistory.com/
  - https://www.acmicpc.net/user/jadeaim
+ - https://replit.com/@minjishim
 
 Update 22. 07. 13.
 <!---
